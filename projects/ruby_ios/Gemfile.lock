@@ -72,3 +72,6 @@ DEPENDENCIES
   rest-client (>= 1.6.7)
   sauce_whisk (>= 0.0.13)
   test_runner (>= 0.9.37)
+
+BUNDLED WITH
+   1.10.4
